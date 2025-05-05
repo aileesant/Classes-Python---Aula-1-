@@ -1,3 +1,5 @@
+# E se quisermos ligar os dados da mesma pessoa de forma mais organizada?
+
 class Pessoa: 
     def __init__(self, nome, idade): 
         self.nome = nome 
