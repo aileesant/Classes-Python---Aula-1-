@@ -1,0 +1,7 @@
+# Primeiro: função simples (sem classe ainda) 
+
+def apresentar_pessoa(nome, idade): 
+    print(f"Olá, meu nome é {nome} e tenho {idade} anos.") 
+ 
+apresentar_pessoa("Ana", 25) 
+apresentar_pessoa("Lucas", 30) 
